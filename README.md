@@ -5,3 +5,5 @@ Here when number is typed in keypad it is shown in the lcd. This can perform Ope
 
 The Code for this Project lies in the CompleteCode.c File which can be runned in Vs code by downloading Extension Platform IO and connecting Arduino to the PC.
 Connection for this project can also be seen in calculator_pins.txt file.
+
+Note: It may Show errors containing in the main file ignore it and try to click on build to confirm no errors are there.
